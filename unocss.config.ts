@@ -28,6 +28,15 @@ export default defineConfig({
       },
     }),
   ],
+  theme: {
+    colors: {
+      primary: '#746242', // class="text-very-cool"
+      brand: {
+        primary: '#Bab799', // class="bg-brand-primary"
+        secondary: '',
+      },
+    },
+  },
   // transformers: [
   //   transformerDirectives(),
   //   transformerVariantGroup(),
