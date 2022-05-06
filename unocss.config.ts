@@ -33,7 +33,6 @@ export default defineConfig({
       primary: '#746242', // class="text-very-cool"
       brand: {
         primary: '#Bab799', // class="bg-brand-primary"
-        secondary: '',
       },
     },
   },
